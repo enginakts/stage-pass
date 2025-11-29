@@ -325,31 +325,6 @@ Veritabanı dosyasının konumunu değiştirmek için `spring.datasource.url` de
 - SQLite veritabanı dosyası proje kök dizininde oluşturulur
 - Yüklenen görseller `uploads/` dizininde saklanır
 
-## 🐛 Bilinen Sorunlar
-
-- CSRF koruması şu anda devre dışı
-- Üretim ortamı için güvenlik ayarlarının gözden geçirilmesi gerekmektedir
-
-## 📸 Ekran Görüntüleri
-
-> **Not**: Ekran görüntüleri yakında eklenecektir.
-
-## 🤝 Katkıda Bulunma
-
-Katkılarınızı bekliyoruz! Projeyi geliştirmek için:
-
-1. Bu repository'yi fork edin
-2. Feature branch oluşturun (`git checkout -b feature/AmazingFeature`)
-3. Değişikliklerinizi commit edin (`git commit -m 'Add some AmazingFeature'`)
-4. Branch'inizi push edin (`git push origin feature/AmazingFeature`)
-5. Bir Pull Request oluşturun
-
-### Katkıda Bulunma Kuralları
-
-- Pull request göndermeden önce değişikliklerinizi test edin
-- Kod standartlarına uyun
-- Açıklayıcı commit mesajları yazın
-- Yeni özellikler için dokümantasyon ekleyin
 
 ## 🐛 Hata Bildirimi
 
@@ -375,20 +350,11 @@ Bu proje demo amaçlı geliştirilmiştir. Eğitim ve öğrenme amaçlı kullan�
 - GitHub: [@enginakts](https://github.com/enginakts)
 - Repository: [stage-pass](https://github.com/enginakts/stage-pass)
 
-## 🙏 Teşekkürler
 
-- Spring Boot ekibine harika framework için
-- Tüm açık kaynak topluluğuna katkıları için
 
-## 📊 Proje İstatistikleri
-
-- ⭐ Stars: [![GitHub stars](https://img.shields.io/github/stars/enginakts/stage-pass.svg?style=social&label=Star)](https://github.com/enginakts/stage-pass)
-- 🍴 Forks: [![GitHub forks](https://img.shields.io/github/forks/enginakts/stage-pass.svg?style=social&label=Fork)](https://github.com/enginakts/stage-pass/fork)
-- 👀 Watchers: [![GitHub watchers](https://img.shields.io/github/watchers/enginakts/stage-pass.svg?style=social&label=Watch)](https://github.com/enginakts/stage-pass)
-
----
 
 ⭐ Bu projeyi beğendiyseniz, yıldız vermeyi unutmayın!
 
 **Not**: Bu README dosyası projenin mevcut durumunu yansıtmaktadır. Güncellemeler için projeyi takip etmeye devam edin.
+
 
